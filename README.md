@@ -9,3 +9,7 @@
 #### Bivariate analysis
 #### Scatterplot and Bar chart
 #### Visualisation with PowerBi  
+
+
+![image](https://user-images.githubusercontent.com/127600830/228245692-4e83d410-f3f4-400b-bd75-7a778fcc5cc1.png)
+
